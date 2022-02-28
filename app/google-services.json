@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881804798206",
+    "project_id": "samplechat-92d32",
+    "storage_bucket": "samplechat-92d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881804798206:android:9f4edf885287ba60c71daf",
+        "android_client_info": {
+          "package_name": "com.quickblox.sample.chat.java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881804798206-ctg7k00pvh16qgg59ar9qifqldf9gl5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBwnJRJmYE4QvG_eYdBSojJWhlylBHXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881804798206-ctg7k00pvh16qgg59ar9qifqldf9gl5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
